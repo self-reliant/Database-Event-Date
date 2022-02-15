@@ -1,5 +1,5 @@
 # Database-Event-Date
-Database of date-event pairs with operations Find(condition), Del(condition), Add(date, event), Last(date), Print().
+Database of date-event pairs with operations ````Find(condition), Del(condition), Add(date, event), Last(date), Print().````
 
 ## Example input
 ````
